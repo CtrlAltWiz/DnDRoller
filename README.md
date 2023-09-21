@@ -4,7 +4,7 @@
 
 This Python program provides a graphical user interface (GUI) for rolling various types of dice, including d4, d6, d8, d10, d12, d20, and d100. It is built using the Tkinter library for the GUI components.
 
-Features
+## Features
 
 Select from a dropdown menu to choose the type of dice to roll.
 Enter the number of rolls you want to perform.
@@ -24,7 +24,7 @@ pip install tkinter
 3. Run the program:
 python DnD_Roller.py
 
-Usage
+## Usage
 
 Launch the program.
 Select the type of dice from the dropdown menu (e.g., d6, d20).
@@ -32,6 +32,6 @@ Enter the number of rolls you want to perform.
 Click the "Roll" button.
 The program will display the results in the GUI, showing each individual roll outcome.
 
-Contributing
+## Contributing
 
 If you'd like to contribute to this project, feel free to open an issue or create a pull request. We welcome contributions to improve and expand this dice rolling tool.
