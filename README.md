@@ -22,7 +22,7 @@ cd DnDRoller
 pip install tkinter
 
 3. Run the program:
-python DnDRoller.py
+python DnD_Roller.py
 
 Usage
 
