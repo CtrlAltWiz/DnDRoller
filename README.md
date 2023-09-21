@@ -15,7 +15,7 @@ Getting Started
 To run the program locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/dice-roller.git
+git clone https://github.com/CtrlAltWiz/DnDRoller.git
 cd dice-roller
    
 2. Install the required libraries:
