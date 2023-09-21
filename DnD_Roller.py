@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import ttk
 import random
 
-#D&D Dice Roller
-#by CtrlAltWiz
-#https://github.com/CtrlAltWiz
+# D&D Dice Roller
+# by CtrlAltWiz
+# https://github.com/CtrlAltWiz
 
 def roll_dice():
     selected_dice = dice_combobox.get()
