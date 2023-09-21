@@ -1,4 +1,7 @@
 # DnDRoller
+
+![Screenshot 2023-09-20 at 7 57 21 PM](https://github.com/CtrlAltWiz/DnDRoller/assets/46701041/56d6f87d-ae2c-4aec-ac49-2ce5322668d6)
+
 This Python program provides a graphical user interface (GUI) for rolling various types of dice, including d4, d6, d8, d10, d12, d20, and d100. It is built using the Tkinter library for the GUI components.
 
 Features
