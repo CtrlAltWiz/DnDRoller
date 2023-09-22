@@ -21,10 +21,10 @@ To run the program locally, follow these steps:
 - `cd DnDRoller`
    
 3. Install the required libraries:
-`pip install tkinter`
+- `pip install tkinter`
 
 4. Run the program:
-`python DnD_Roller.py`
+- `python DnD_Roller.py`
 
 ## Usage
 
