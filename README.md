@@ -15,13 +15,15 @@ Getting Started
 To run the program locally, follow these steps:
 
 1. Clone the repository:
+
 `git clone https://github.com/CtrlAltWiz/DnDRoller.git`
+
 `cd DnDRoller`
    
-2. Install the required libraries:
+3. Install the required libraries:
 `pip install tkinter`
 
-3. Run the program:
+4. Run the program:
 `python DnD_Roller.py`
 
 ## Usage
