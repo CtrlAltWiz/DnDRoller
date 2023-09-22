@@ -8,28 +8,28 @@ This Python program provides a graphical user interface (GUI) for rolling variou
 
 Select from a dropdown menu to choose the type of dice to roll.
 Enter the number of rolls you want to perform.
-Click the "Roll" button to simulate the dice rolls.
+Click the `"Roll"` button to simulate the dice rolls.
 View the results, including the individual outcomes of each roll.
 Getting Started
 
 To run the program locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/CtrlAltWiz/DnDRoller.git
-cd DnDRoller
+`git clone https://github.com/CtrlAltWiz/DnDRoller.git`
+`cd DnDRoller`
    
 2. Install the required libraries:
-pip install tkinter
+`pip install tkinter`
 
 3. Run the program:
-python DnD_Roller.py
+`python DnD_Roller.py`
 
 ## Usage
 
 Launch the program.
 Select the type of dice from the dropdown menu (e.g., d6, d20).
 Enter the number of rolls you want to perform.
-Click the "Roll" button.
+Click the `"Roll"` button.
 The program will display the results in the GUI, showing each individual roll outcome.
 
 ## Contributing
