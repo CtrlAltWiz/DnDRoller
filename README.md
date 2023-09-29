@@ -1,7 +1,9 @@
-# DnDRoller
+# D&D Dice Roller v.2
 
+v.1
 ![Screenshot 2023-09-20 at 7 57 21 PM](https://github.com/CtrlAltWiz/DnDRoller/assets/46701041/56d6f87d-ae2c-4aec-ac49-2ce5322668d6)
 
+v.2
 ![image](https://github.com/CtrlAltWiz/DnDRoller/assets/46701041/e90e2d4a-aaa4-4ea0-aba7-e1388e86c099)
 
 
